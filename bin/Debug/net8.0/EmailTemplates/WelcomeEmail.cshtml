@@ -1,0 +1,11 @@
+@model RazorLightDemo.Models.WelcomeEmailModel
+
+<!DocType html>
+</<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><title></title></head>
+    <body>
+        <h2>Welcome @Model.UserName</h2>
+        <p>Thanks for signing up! Click the link below to activate your account:</p>
+        <p><a href="@Model.ActivationLink">Activate Account</a></p>
+    </body>
+</html>

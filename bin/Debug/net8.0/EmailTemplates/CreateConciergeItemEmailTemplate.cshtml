@@ -1,0 +1,53 @@
+@model RazorLightDemo.Models.CreateConciergeItemEmailModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        tr:nth-child(even) { background-color: #f9f9f9; }
+        tr:hover { background-color: #f1f1f1; }
+        th { background-color: #f2f2f2; }
+        .footer { margin-top: 40px; font-size: 12px; color: gray; text-align: center; }
+    </style>
+</head>
+<body>
+    <h2>New Concierge Item has been created for Member: @Model.MemberName</h2>
+    <p>The following Concierge Item has been created:</p>
+    <table>
+        <tr>
+            <th>Date Created</th>
+            <td>@Model.DateCreated.ToString("dd/MM/yyyy")</td>
+        </tr>
+        <tr>
+            <th>Client</th>
+            <td>@Model.ClientName</td>
+        </tr>
+        <tr>
+            <th>Programme</th>
+            <td>@Model.ProgrammeName</td>
+        </tr>
+        <tr>
+            <th>Concierge ID</th>
+            <td><a href="@Model.ConciergeItemLink">Link to Concierge ID</a></td>
+        </tr>
+        <tr>
+            <th>Summary ID</th>
+            <td><a href="@Model.SummaryLink">Link to Summary ID</a></td>
+        </tr>
+        <tr>
+            <th>Item Details</th>
+            <td>@Model.ConciergeItemDetails</td>
+        </tr>
+        <tr>
+            <th>Summary Notes</th>
+            <td>@Model.SummaryNotes</td>
+        </tr>
+    </table>
+    <p class="footer">
+        This is an automated notification. Please do not reply to this email.
+    </p>
+</body>
+</html>
