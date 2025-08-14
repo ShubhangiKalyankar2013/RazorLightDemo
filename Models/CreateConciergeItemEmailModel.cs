@@ -1,19 +1,22 @@
 ﻿namespace RazorLightDemo.Models;
 public class CreateConciergeItemEmailModel
 {
-    public string MemberName { get; set; } = string.Empty;
+    public required int ConciergeItemId { get; set; } 
+    public required string MemberName { get; set; } = string.Empty;
 
-    public DateTime DateCreated { get; set; }
+    public required DateTime DateCreated { get; set; }
 
-    public string ClientName { get; set; } = string.Empty;
+    public required string ClientName { get; set; } = string.Empty;
 
-    public string ProgrammeName { get; set; } = string.Empty;
+    public required string ProgrammeName { get; set; } = string.Empty;
 
-    public string ConciergeItemLink { get; set; } = string.Empty;
+    public required string ConciergeItemLink { get; set; } = string.Empty;
 
-    public string SummaryLink { get; set; } = string.Empty;
+    public required int SummaryID { get; set; }
 
-    public string ConciergeItemDetails { get; set; } = string.Empty;
+    public required string SummaryLink { get; set; } = string.Empty;
 
-    public string SummaryNotes { get; set; } = string.Empty;
+    public required string ConciergeItemDetails { get; set; } = string.Empty;
+
+    public required string SummaryNotes { get; set; } = string.Empty;
 }

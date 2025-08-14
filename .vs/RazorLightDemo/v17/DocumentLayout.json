@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Demo\\RazorLightDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|c:\\demo\\razorlightdemo\\emailrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|solutionrelative:emailrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|c:\\demo\\razorlightdemo\\razorlightdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|solutionrelative:razorlightdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|c:\\demo\\razorlightdemo\\emailtemplates\\welcomeemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|solutionrelative:emailtemplates\\welcomeemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|c:\\demo\\razorlightdemo\\models\\createconciergeitememailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|solutionrelative:models\\createconciergeitememailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|c:\\demo\\razorlightdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|c:\\demo\\razorlightdemo\\emailtemplates\\createconciergeitemnewemailtemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|solutionrelative:emailtemplates\\createconciergeitemnewemailtemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|c:\\demo\\razorlightdemo\\emailtemplates\\createconciergeitememailtemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|solutionrelative:emailtemplates\\createconciergeitememailtemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|c:\\demo\\razorlightdemo\\models\\createconciergeitememailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|solutionrelative:models\\createconciergeitememailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|c:\\demo\\razorlightdemo\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|solutionrelative:emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|c:\\demo\\razorlightdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|c:\\demo\\razorlightdemo\\emailrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|solutionrelative:emailrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|c:\\demo\\razorlightdemo\\models\\welcomeemailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|solutionrelative:models\\welcomeemailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|c:\\demo\\razorlightdemo\\emailtemplates\\welcomeemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAFAE713-6B74-4936-B43E-B7CE2154E259}|RazorLightDemo.csproj|solutionrelative:emailtemplates\\welcomeemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,21 +77,51 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "RazorLightDemo",
+              "DocumentMoniker": "C:\\Demo\\RazorLightDemo\\RazorLightDemo.csproj",
+              "RelativeDocumentMoniker": "RazorLightDemo.csproj",
+              "ToolTip": "C:\\Demo\\RazorLightDemo\\RazorLightDemo.csproj",
+              "RelativeToolTip": "RazorLightDemo.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T11:55:39.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateConciergeItemNewEmailTemplate.cshtml",
+              "DocumentMoniker": "C:\\Demo\\RazorLightDemo\\EmailTemplates\\CreateConciergeItemNewEmailTemplate.cshtml",
+              "RelativeDocumentMoniker": "EmailTemplates\\CreateConciergeItemNewEmailTemplate.cshtml",
+              "ToolTip": "C:\\Demo\\RazorLightDemo\\EmailTemplates\\CreateConciergeItemNewEmailTemplate.cshtml",
+              "RelativeToolTip": "EmailTemplates\\CreateConciergeItemNewEmailTemplate.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowDgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T08:27:42.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CreateConciergeItemEmailModel.cs",
               "DocumentMoniker": "C:\\Demo\\RazorLightDemo\\Models\\CreateConciergeItemEmailModel.cs",
               "RelativeDocumentMoniker": "Models\\CreateConciergeItemEmailModel.cs",
               "ToolTip": "C:\\Demo\\RazorLightDemo\\Models\\CreateConciergeItemEmailModel.cs",
               "RelativeToolTip": "Models\\CreateConciergeItemEmailModel.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAcAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T06:38:48.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CreateConciergeItemEmailTemplate.cshtml",
               "DocumentMoniker": "C:\\Demo\\RazorLightDemo\\EmailTemplates\\CreateConciergeItemEmailTemplate.cshtml",
               "RelativeDocumentMoniker": "EmailTemplates\\CreateConciergeItemEmailTemplate.cshtml",
@@ -91,49 +129,51 @@
               "RelativeToolTip": "EmailTemplates\\CreateConciergeItemEmailTemplate.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-08T06:37:36.397Z"
+              "WhenOpened": "2025-08-08T06:37:36.397Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Demo\\RazorLightDemo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Demo\\RazorLightDemo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAjwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAjwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T07:54:28.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "EmailSender.cs",
               "DocumentMoniker": "C:\\Demo\\RazorLightDemo\\EmailSender.cs",
               "RelativeDocumentMoniker": "EmailSender.cs",
               "ToolTip": "C:\\Demo\\RazorLightDemo\\EmailSender.cs",
               "RelativeToolTip": "EmailSender.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAjwBgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwBYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T07:47:23.465Z"
+              "WhenOpened": "2025-08-07T07:47:23.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "EmailRenderer.cs",
               "DocumentMoniker": "C:\\Demo\\RazorLightDemo\\EmailRenderer.cs",
               "RelativeDocumentMoniker": "EmailRenderer.cs",
               "ToolTip": "C:\\Demo\\RazorLightDemo\\EmailRenderer.cs",
               "RelativeToolTip": "EmailRenderer.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA8AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T07:42:30.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "WelcomeEmailModel.cs",
               "DocumentMoniker": "C:\\Demo\\RazorLightDemo\\Models\\WelcomeEmailModel.cs",
               "RelativeDocumentMoniker": "Models\\WelcomeEmailModel.cs",
@@ -141,11 +181,12 @@
               "RelativeToolTip": "Models\\WelcomeEmailModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T07:39:40.932Z"
+              "WhenOpened": "2025-08-07T07:39:40.932Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "WelcomeEmail.cshtml",
               "DocumentMoniker": "C:\\Demo\\RazorLightDemo\\EmailTemplates\\WelcomeEmail.cshtml",
               "RelativeDocumentMoniker": "EmailTemplates\\WelcomeEmail.cshtml",
@@ -153,8 +194,7 @@
               "RelativeToolTip": "EmailTemplates\\WelcomeEmail.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-07T07:34:41.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T07:34:41.101Z"
             }
           ]
         }

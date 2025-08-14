@@ -3,7 +3,7 @@
 namespace RazorLightDemo;
 public class EmailSender
 {
-    private readonly string _smtpHost = "smtp.gmail.com"; // e.g., smtp.gmail.com
+    private readonly string _smtpHost = "mail.tenuk.com"; // e.g., smtp.gmail.com
     private readonly int _smtpPort = 25;
     private readonly string _smtpUser = "shubhangikalyankar@tengroup.com";
     private readonly string _smtpPass = "";

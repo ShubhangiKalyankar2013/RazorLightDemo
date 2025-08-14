@@ -13,8 +13,10 @@ var  emailText = await emailRenderer.RenderEmailAsync("WelcomeEmail", new Welcom
     ActivationLink = "https://example.com/activate?token=123456"
 });
 
-var emailText2 = await emailRenderer.RenderEmailAsync("CreateConciergeItemEmailTemplate", new CreateConciergeItemEmailModel
+var emailText2 = await emailRenderer.RenderEmailAsync("CreateConciergeItemNewEmailTemplate", new CreateConciergeItemEmailModel
 {
+    ConciergeItemId = 123,
+    SummaryID = 456,
     MemberName = "Jane Smith",
     DateCreated = DateTime.Now,
     ClientName = "Acme Corp",
@@ -25,5 +27,5 @@ var emailText2 = await emailRenderer.RenderEmailAsync("CreateConciergeItemEmailT
     SummaryNotes = "Summary notes for the concierge item."
 });
 
-emailSender.SendEmail("shubhangikalyankar@tengroup.com", "Test CSHTML email",emailText2);
-emailSender.SendEmail("shubhangikalyankar@tengroup.com", "Test CSHTML email", emailText);
+emailSender.SendEmail("shubhangi.s52@gmail.com", "Test CSHTML email",emailText2);
+//emailSender.SendEmail("shubhangikalyankar@tengroup.com", "Test CSHTML email", emailText);

@@ -350,3 +350,5 @@ C:\Demo\RazorLightDemo\bin\Debug\net8.0\refs\System.Xml.XPath.dll
 C:\Demo\RazorLightDemo\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
 C:\Demo\RazorLightDemo\bin\Debug\net8.0\refs\WindowsBase.dll
 C:\Demo\RazorLightDemo\bin\Debug\net8.0\EmailTemplates\CreateConciergeItemEmailTemplate.cshtml
+C:\Demo\RazorLightDemo\bin\Debug\net8.0\EmailTemplates\CreateConciergeItemNewEmailTemplate.cshtml
+C:\Demo\RazorLightDemo\obj\Debug\net8.0\RazorLightDemo.sourcelink.json
